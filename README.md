@@ -1,6 +1,7 @@
 # endpoint
 
-In the main there i commands where you can change the String input to add what you would like. If I had more time, I would have let user input it or have it in the test cases. Once you add input, just click run in the main and it will give you the output
+In the main class there are commands where you can change the String input to add what you would like. If I had more time, I would have let user input it or have it in the test cases. Once you add input, click run in the main and it will give you the output
+Please go to Dev branch to run this
 
         List<String> commands = Arrays.asList(
                 "CREATE fruits",
